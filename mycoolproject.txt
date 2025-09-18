@@ -1,1 +1,3 @@
 Hello World
+
+If only I remembered the Zen of Python.
